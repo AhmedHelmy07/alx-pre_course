@@ -13,3 +13,4 @@ root@2ceed7f11e08:/# cd alx-pre_course
 root@2ceed7f11e08:/alx-pre_course# git branch update_script
 root@2ceed7f11e08:/alx-pre_course# git push
 To https://github.com/AhmedHelmy07/alx-pre_course.git
+git pull origin
